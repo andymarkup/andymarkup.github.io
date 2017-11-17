@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to AndyMarkUp...
+![](AMU-Arrow.png)
 
 [Link to another page](another-page).
 
