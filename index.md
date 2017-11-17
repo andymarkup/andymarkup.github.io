@@ -3,7 +3,7 @@ layout: default
 ---
 
 Welcome to AndyMarkUp...
-![](AMU-Arrow.png)
+![](AMU-Arrow-Med.png)
 
 [Link to another page](another-page).
 
