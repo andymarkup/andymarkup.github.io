@@ -16,6 +16,6 @@ Give us some feedback here: [feedback-form.html]
 
 Contact us:
 
-Andrew [andrew@andymarkup.com]
+[Andrew](mailto:andrew@andymarkup.com)
 
-Marshall [marshall@andymarkup.com]
+[Marshall](mailto:marshall@andymarkup.com)
