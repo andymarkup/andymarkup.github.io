@@ -13,3 +13,9 @@ Download a PDF of our talk here: [Talk.pdf]
 Watch our talk here: [youtube.link]
 
 Give us some feedback here: [feedback-form.html]
+
+Contact us:
+
+Andrew [andrew@andymarkup.com]
+
+Marshall [marshall@andymarkup.com]
