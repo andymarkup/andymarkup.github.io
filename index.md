@@ -12,7 +12,7 @@ Download a PDF of our talk here: [Talk.pdf]
 
 Watch our talk here: [youtube.link]
 
-Give us some feedback here: [feedback-form.html]
+[Give us some feedback here.](https://docs.google.com/forms/d/e/1FAIpQLSclc3e9CVaZYRrw4mzop2WrvRSzNEtAH2M9zEUMNjoy40BkVw/viewform?usp=sf_link)
 
 Contact us:
 
