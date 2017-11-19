@@ -8,7 +8,7 @@ Welcome to AndyMarkUp...
 
 # [](#header-1)50 Years of FRC - Imagine the Possibilities
 
-Download a PDF of our talk here: [Talk.pdf]
+[Download a PDF of our talk here.](FRC At 50.pdf)
 
 Watch our talk here: [youtube.link]
 
