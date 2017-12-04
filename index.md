@@ -10,7 +10,7 @@ Welcome to AndyMarkUp...
 
 [Download a PDF of our talk here.](FRC At 50.pdf)
 
-Watch our talk here: [youtube.link]
+[Watch our talk here.](https://youtu.be/-gGRT93rsGo)
 
 [Give us some feedback here.](https://docs.google.com/forms/d/e/1FAIpQLSclc3e9CVaZYRrw4mzop2WrvRSzNEtAH2M9zEUMNjoy40BkVw/viewform?usp=sf_link)
 
